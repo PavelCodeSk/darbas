@@ -173,7 +173,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-dataset
 .jpg
 download.zip
 
@@ -187,3 +186,15 @@ old_img_yes.csv
 pixels_df.csv
 melanoma_classifier.h5
 1_melanoma_classifier.h5
+
+
+
+newnomelanoma
+newyesmelanoma
+old_images
+output_folder_no_melanoma
+output_folder_yes_melanoma
+test_images
+test_model_image
+yesmelanoma
+nomelanoma
